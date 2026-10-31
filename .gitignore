@@ -1,0 +1,7 @@
+# CIFAR-10 is downloaded by torchvision on first run
+data/
+*.pth
+*.pt
+.ipynb_checkpoints/
+__pycache__/
+.venv/
